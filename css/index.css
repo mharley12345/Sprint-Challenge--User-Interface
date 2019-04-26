@@ -144,3 +144,41 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+nav       {
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    align-items: center;
+    margin-right: 330px;
+    margin-left: 330px;
+    
+  
+
+}
+header {
+    margin-right: 330px;
+    margin-left: 360px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+
+}
+  /* about page */
+
+  section {
+    width: 800px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+
+
+    
+
+
+
+
+
